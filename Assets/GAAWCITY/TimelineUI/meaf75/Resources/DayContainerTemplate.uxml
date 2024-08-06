@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xmlns="UnityEngine.UIElements" editor-extension-mode="False">
+    <ui:Box class="day-container">
+        <ui:VisualElement class="hours-label-container">
+            <ui:Button display-tooltip-when-elided="true" name="button-day" style="height: 64px; width: 64px;" />
+        </ui:VisualElement>
+    </ui:Box>
+</ui:UXML>
